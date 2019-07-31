@@ -7,6 +7,9 @@
     "php": "^7.0"
   },
   "autoload": {
+    "files": [
+      "registration.php"
+    ],
     "psr-4": {
       "Orange35\\Core\\": ""
     }
